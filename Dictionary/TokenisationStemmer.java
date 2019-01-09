@@ -1,4 +1,4 @@
-package sak170006_hw1;
+package dictionary;
 
 import java.io.BufferedReader;
 import java.io.File;
